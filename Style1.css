@@ -1,0 +1,30 @@
+#main_title{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500; 
+}
+
+.box h2{
+    float:left;
+}
+.box button{
+    float:right;
+}
+
+.container{
+    margin-top:50px;
+}
+
+h6 {
+    text-align:  center;
+    color: red;
+}
+
+h5{
+    text-align: center;
+    color: green;
+}
+
